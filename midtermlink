@@ -1,0 +1,32 @@
+https://1drv.ms/u/s!Ag0iMU13DSwSkE7rK5aFCOvo8QpU
+
+
+Duration: 15 days
+Part 1 (60) : You are to to find and  search and deal for colinearity in the data sets  used in the notebooks below
+A)
+      https://towardsdatascience.com/statistics-in-python-collinearity-and-multicollinearity-4cc4dcd82b3f -> blood pressure
+B)
+          https://www.kaggle.com/omgavy/multicollinearity-analysis-eda/notebook  ->stdutent, vif
+
+	C) https://www.kaggle.com/faressayah/linear-regression-house-price-prediction-> house price  prediction
+
+For each model 
+   1) determine your priors and likelyhoods
+   2) regress each variable independently for the target
+   3) Do the posteriror check
+  4) do the multiple regression
+ 5) draw the possible casual dags
+	6)  Explain the colinearity and how you have dealed with it.
+   7)      apply vif to milk data.
+
+Part  2 ) (40) Is inflation effect and interest rate   is the cause? (Tefe /Tüfe) when other factors included (like the currency value). 
+Assume the proposition is true and draw casual DAGS accordingly. Then check for the testable implications.
+Do a multiple regression including currency rate and interets rate. İnterpret them ! (beware of the time scales of data!)
+Not: For grading you will explain your work . Deliver your calculations and explanations. A) as a jupyter notebook  and B) pdf /html file.
+
+            
+                
+
+
+
+
